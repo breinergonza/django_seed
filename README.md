@@ -1,7 +1,5 @@
-# pythonSeed
+# Django Seed
 
-[![Build Status](https://travis-ci.org/breinergonza/pythonSeed.svg?branch=master)](https://travis-ci.org/breinergonza/pythonSeed)
-[![Built with](https://img.shields.io/badge/Built_with-Cookiecutter_Django_Rest-F7B633.svg)](https://github.com/agconti/cookiecutter-django-rest)
 
 Project seed in Python. Check out the project's [documentation](http://breinergonza.github.io/pythonSeed/).
 
